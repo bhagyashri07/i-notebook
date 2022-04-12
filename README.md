@@ -16,7 +16,7 @@ lets use The api
 
 For creating a new user (method -- POST)
 
-API 1 --> localhost:5000/api/auth/createuser
+API 1 --> http://localhost:5000/api/auth/createuser
 
 header type (content type - application json)
 
