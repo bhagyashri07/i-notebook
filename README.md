@@ -1,5 +1,5 @@
 # i-notebook
-Notepad backend is based on mern stack project ,it is full stack CURD opration with a database (Using MongoDb)
+i-notebook backend is based on mern stack project ,it is full stack CURD opration with a database (Using MongoDb)
 
 To Install the all modules run the command npm install
 
